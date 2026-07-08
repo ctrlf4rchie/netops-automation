@@ -32,7 +32,7 @@ netops = "netops.cli:main"
 
 [project.urls]
 Homepage = "https://archieabeleda.dev"
-Repository = "https://github.com/ctrlf4rchie/netops-automation"
+Repository = "https://github.com/archieabeleda/netops-automation"
 
 [tool.setuptools.packages.find]
 where = ["src"]
